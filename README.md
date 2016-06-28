@@ -1,3 +1,3 @@
 # hello-world
 First Git Demo
-ok, steven, just do somethin.
+ok, steven, just do something.
